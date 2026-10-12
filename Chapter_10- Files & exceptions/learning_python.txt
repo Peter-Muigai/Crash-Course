@@ -1,0 +1,3 @@
+In Python you can write a lot of wonderful programs up-to modeling real-world projects. 
+I have learn Python from the basics such as variables building upon my knowlegde with lists working with lists,
+dictionaries, loops, user input, functions, classes and even working on files.
